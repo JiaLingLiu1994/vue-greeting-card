@@ -67,7 +67,7 @@ export default {
     .product-gallery {
         min-height: 100vh;
         max-width: 425px;
-        overflow-x: auto;
+        overflow-x: hidden;
 
         .block {
             height: 27px;
