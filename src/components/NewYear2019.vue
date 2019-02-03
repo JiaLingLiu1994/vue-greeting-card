@@ -56,6 +56,7 @@
 
 <script>
 export default {
+  name: 'NewYear2019',
   data() {
     return {
     }
